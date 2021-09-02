@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\HW101\HW101\bin\Debug\netcoreapp3.1\HW101.exe
+C:\Users\Admin\source\repos\HW101\HW101\bin\Debug\netcoreapp3.1\HW101.deps.json
+C:\Users\Admin\source\repos\HW101\HW101\bin\Debug\netcoreapp3.1\HW101.runtimeconfig.json
+C:\Users\Admin\source\repos\HW101\HW101\bin\Debug\netcoreapp3.1\HW101.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\HW101\HW101\bin\Debug\netcoreapp3.1\HW101.dll
+C:\Users\Admin\source\repos\HW101\HW101\bin\Debug\netcoreapp3.1\HW101.pdb
+C:\Users\Admin\source\repos\HW101\HW101\obj\Debug\netcoreapp3.1\HW101.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HW101\HW101\obj\Debug\netcoreapp3.1\HW101.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HW101\HW101\obj\Debug\netcoreapp3.1\HW101.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HW101\HW101\obj\Debug\netcoreapp3.1\HW101.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HW101\HW101\obj\Debug\netcoreapp3.1\HW101.dll
+C:\Users\Admin\source\repos\HW101\HW101\obj\Debug\netcoreapp3.1\HW101.pdb
+C:\Users\Admin\source\repos\HW101\HW101\obj\Debug\netcoreapp3.1\HW101.genruntimeconfig.cache
